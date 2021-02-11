@@ -1,0 +1,5587 @@
+fileFormatVersion: 2
+guid: 0cc8a90b6cce80d43865b7886df11873
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5893531192479184067
+    second: TowerClimberTileset_0
+  - first:
+      213: -2083911509755625057
+    second: TowerClimberTileset_1
+  - first:
+      213: -8199578348427307755
+    second: TowerClimberTileset_2
+  - first:
+      213: 2625528342763049811
+    second: TowerClimberTileset_3
+  - first:
+      213: 1372106926008683118
+    second: TowerClimberTileset_4
+  - first:
+      213: -4199075471970152053
+    second: TowerClimberTileset_5
+  - first:
+      213: 5835357722648989256
+    second: TowerClimberTileset_6
+  - first:
+      213: 571826790830958777
+    second: TowerClimberTileset_7
+  - first:
+      213: -7669665079355022572
+    second: TowerClimberTileset_8
+  - first:
+      213: -7882898939848856404
+    second: TowerClimberTileset_9
+  - first:
+      213: 1162813842699862535
+    second: TowerClimberTileset_10
+  - first:
+      213: 4608226480383252443
+    second: TowerClimberTileset_11
+  - first:
+      213: 8830028550923295425
+    second: TowerClimberTileset_12
+  - first:
+      213: -1130376620095900968
+    second: TowerClimberTileset_13
+  - first:
+      213: -1913337718642195743
+    second: TowerClimberTileset_14
+  - first:
+      213: -1578254601471387028
+    second: TowerClimberTileset_15
+  - first:
+      213: 3197275093176848829
+    second: TowerClimberTileset_16
+  - first:
+      213: 40668295709115453
+    second: TowerClimberTileset_17
+  - first:
+      213: 5531076800419022745
+    second: TowerClimberTileset_18
+  - first:
+      213: 1563895382116154098
+    second: TowerClimberTileset_19
+  - first:
+      213: 5152390179263586637
+    second: TowerClimberTileset_20
+  - first:
+      213: 5454421900362762763
+    second: TowerClimberTileset_21
+  - first:
+      213: 2840627900853342642
+    second: TowerClimberTileset_22
+  - first:
+      213: -5548894839915343296
+    second: TowerClimberTileset_23
+  - first:
+      213: -7602847665353031178
+    second: TowerClimberTileset_24
+  - first:
+      213: -3140082185833901680
+    second: TowerClimberTileset_25
+  - first:
+      213: -7665317492507254076
+    second: TowerClimberTileset_26
+  - first:
+      213: 477336172379050413
+    second: TowerClimberTileset_27
+  - first:
+      213: 3833724769559037987
+    second: TowerClimberTileset_28
+  - first:
+      213: -500276554219537146
+    second: TowerClimberTileset_29
+  - first:
+      213: 8353836332099038623
+    second: TowerClimberTileset_30
+  - first:
+      213: 3791431760185974317
+    second: TowerClimberTileset_31
+  - first:
+      213: -5575770365503992020
+    second: TowerClimberTileset_32
+  - first:
+      213: 2689653806438417775
+    second: TowerClimberTileset_33
+  - first:
+      213: 3756162462281717118
+    second: TowerClimberTileset_34
+  - first:
+      213: -345557310071471205
+    second: TowerClimberTileset_35
+  - first:
+      213: -2447019643804475056
+    second: TowerClimberTileset_36
+  - first:
+      213: -1416520214068425486
+    second: TowerClimberTileset_37
+  - first:
+      213: 2077449224661417628
+    second: TowerClimberTileset_38
+  - first:
+      213: 6907123041688738239
+    second: TowerClimberTileset_39
+  - first:
+      213: -7660784283578557069
+    second: TowerClimberTileset_40
+  - first:
+      213: 771767272177802137
+    second: TowerClimberTileset_41
+  - first:
+      213: 1115718463286684363
+    second: TowerClimberTileset_42
+  - first:
+      213: 2052089929427937326
+    second: TowerClimberTileset_43
+  - first:
+      213: 3489369001181517000
+    second: TowerClimberTileset_44
+  - first:
+      213: -7262183973273326391
+    second: TowerClimberTileset_45
+  - first:
+      213: -6713551381484577757
+    second: TowerClimberTileset_46
+  - first:
+      213: 4320004815655245376
+    second: TowerClimberTileset_47
+  - first:
+      213: 2265522144022007101
+    second: TowerClimberTileset_48
+  - first:
+      213: -4575090812286483128
+    second: TowerClimberTileset_49
+  - first:
+      213: 3085604757189159938
+    second: TowerClimberTileset_50
+  - first:
+      213: -1439608721187297067
+    second: TowerClimberTileset_51
+  - first:
+      213: -4671317645119561797
+    second: TowerClimberTileset_52
+  - first:
+      213: 4093712372387821303
+    second: TowerClimberTileset_53
+  - first:
+      213: 3651516896101415792
+    second: TowerClimberTileset_54
+  - first:
+      213: -2535871759277451811
+    second: TowerClimberTileset_55
+  - first:
+      213: 7660626578263338415
+    second: TowerClimberTileset_56
+  - first:
+      213: 7067624343497291127
+    second: TowerClimberTileset_57
+  - first:
+      213: -1021304731336794675
+    second: TowerClimberTileset_58
+  - first:
+      213: -2064578914864064453
+    second: TowerClimberTileset_59
+  - first:
+      213: -2691708223635339127
+    second: TowerClimberTileset_60
+  - first:
+      213: 8125837973512430312
+    second: TowerClimberTileset_61
+  - first:
+      213: 6942016173086648477
+    second: TowerClimberTileset_62
+  - first:
+      213: 9096162684890356476
+    second: TowerClimberTileset_63
+  - first:
+      213: 848473188149958441
+    second: TowerClimberTileset_64
+  - first:
+      213: 6932286412733653648
+    second: TowerClimberTileset_65
+  - first:
+      213: -700723222638362910
+    second: TowerClimberTileset_66
+  - first:
+      213: 3159922097581881878
+    second: TowerClimberTileset_67
+  - first:
+      213: -8415606873846366942
+    second: TowerClimberTileset_68
+  - first:
+      213: -8305828483878283281
+    second: TowerClimberTileset_69
+  - first:
+      213: -2076153258357710401
+    second: TowerClimberTileset_70
+  - first:
+      213: 6262556181095860724
+    second: TowerClimberTileset_71
+  - first:
+      213: -254055131636068411
+    second: TowerClimberTileset_72
+  - first:
+      213: -1008513158114499741
+    second: TowerClimberTileset_73
+  - first:
+      213: -390388955502343604
+    second: TowerClimberTileset_74
+  - first:
+      213: 4940862595770106493
+    second: TowerClimberTileset_75
+  - first:
+      213: -8906397338633943413
+    second: TowerClimberTileset_76
+  - first:
+      213: -1417528785536378992
+    second: TowerClimberTileset_77
+  - first:
+      213: -7367957414501654675
+    second: TowerClimberTileset_78
+  - first:
+      213: -1255478874497265574
+    second: TowerClimberTileset_79
+  - first:
+      213: 7143875170325559391
+    second: TowerClimberTileset_80
+  - first:
+      213: 9177367002363646441
+    second: TowerClimberTileset_81
+  - first:
+      213: 4007916867378925165
+    second: TowerClimberTileset_82
+  - first:
+      213: -8801153454392582715
+    second: TowerClimberTileset_83
+  - first:
+      213: -9205967960645180846
+    second: TowerClimberTileset_84
+  - first:
+      213: 5883606723569357259
+    second: TowerClimberTileset_85
+  - first:
+      213: 2060624984242946364
+    second: TowerClimberTileset_86
+  - first:
+      213: 1785747249267372819
+    second: TowerClimberTileset_87
+  - first:
+      213: -6342660456437943594
+    second: TowerClimberTileset_88
+  - first:
+      213: -3241546310026955126
+    second: TowerClimberTileset_89
+  - first:
+      213: 5876030365535853887
+    second: TowerClimberTileset_90
+  - first:
+      213: -770156551137275912
+    second: TowerClimberTileset_91
+  - first:
+      213: -3365169408872843802
+    second: TowerClimberTileset_92
+  - first:
+      213: 3118164777572434292
+    second: TowerClimberTileset_93
+  - first:
+      213: -1911556443043712517
+    second: TowerClimberTileset_94
+  - first:
+      213: -1322667944961543127
+    second: TowerClimberTileset_95
+  - first:
+      213: 2090042547528833785
+    second: TowerClimberTileset_96
+  - first:
+      213: 1428222117362184254
+    second: TowerClimberTileset_97
+  - first:
+      213: 5157258822589559106
+    second: TowerClimberTileset_98
+  - first:
+      213: -3312916751399784532
+    second: TowerClimberTileset_99
+  - first:
+      213: 4461699406425685916
+    second: TowerClimberTileset_100
+  - first:
+      213: -3127012423127225377
+    second: TowerClimberTileset_101
+  - first:
+      213: 2483614380842809104
+    second: TowerClimberTileset_102
+  - first:
+      213: 1730361667697234959
+    second: TowerClimberTileset_103
+  - first:
+      213: -6531098684494464314
+    second: TowerClimberTileset_104
+  - first:
+      213: -5737221857642520446
+    second: TowerClimberTileset_105
+  - first:
+      213: 1288391744812336427
+    second: TowerClimberTileset_106
+  - first:
+      213: -1082008603546090690
+    second: TowerClimberTileset_107
+  - first:
+      213: 8260835671680701804
+    second: TowerClimberTileset_108
+  - first:
+      213: -7518719485525284702
+    second: TowerClimberTileset_109
+  - first:
+      213: 1412069265587394015
+    second: TowerClimberTileset_110
+  - first:
+      213: 2428832764299555507
+    second: TowerClimberTileset_111
+  - first:
+      213: 3194835178768812605
+    second: TowerClimberTileset_112
+  - first:
+      213: -4652291845358402873
+    second: TowerClimberTileset_113
+  - first:
+      213: 1157721270952154257
+    second: TowerClimberTileset_114
+  - first:
+      213: 4388092455061395827
+    second: TowerClimberTileset_115
+  - first:
+      213: -1439270215053966712
+    second: TowerClimberTileset_116
+  - first:
+      213: 3578176191122318343
+    second: TowerClimberTileset_117
+  - first:
+      213: 6605732724355718579
+    second: TowerClimberTileset_118
+  - first:
+      213: 3320308653047696859
+    second: TowerClimberTileset_119
+  - first:
+      213: 5099003763768387770
+    second: TowerClimberTileset_120
+  - first:
+      213: -4810980861726725878
+    second: TowerClimberTileset_121
+  - first:
+      213: -5425884613159114066
+    second: TowerClimberTileset_122
+  - first:
+      213: -5390752645136681866
+    second: TowerClimberTileset_123
+  - first:
+      213: 7676197866458236742
+    second: TowerClimberTileset_124
+  - first:
+      213: 5073028591263066837
+    second: TowerClimberTileset_125
+  - first:
+      213: -7942351301081467298
+    second: TowerClimberTileset_126
+  - first:
+      213: -118283051634784308
+    second: TowerClimberTileset_127
+  - first:
+      213: 4375674254495381893
+    second: TowerClimberTileset_128
+  - first:
+      213: -6942072688774091367
+    second: TowerClimberTileset_129
+  - first:
+      213: -8344966776672927833
+    second: TowerClimberTileset_130
+  - first:
+      213: 4297663557905924750
+    second: TowerClimberTileset_131
+  - first:
+      213: -5147072523456158060
+    second: TowerClimberTileset_132
+  - first:
+      213: 5153692429568726762
+    second: TowerClimberTileset_133
+  - first:
+      213: -6022833358197580858
+    second: TowerClimberTileset_134
+  - first:
+      213: -6582573529205906630
+    second: TowerClimberTileset_135
+  - first:
+      213: -5231718560096384826
+    second: TowerClimberTileset_136
+  - first:
+      213: -2540269704140420694
+    second: TowerClimberTileset_137
+  - first:
+      213: 4916037648067028881
+    second: TowerClimberTileset_138
+  - first:
+      213: 6054913685406384213
+    second: TowerClimberTileset_139
+  - first:
+      213: 2614454060232092338
+    second: TowerClimberTileset_140
+  - first:
+      213: 8952756195861801058
+    second: TowerClimberTileset_141
+  - first:
+      213: 5430948408591876303
+    second: TowerClimberTileset_142
+  - first:
+      213: -6056974642542484819
+    second: TowerClimberTileset_143
+  - first:
+      213: -5233492165822027272
+    second: TowerClimberTileset_144
+  - first:
+      213: -5282311192061111903
+    second: TowerClimberTileset_145
+  - first:
+      213: -2609148243553305491
+    second: TowerClimberTileset_146
+  - first:
+      213: 6538740388501863186
+    second: TowerClimberTileset_147
+  - first:
+      213: 2557094751970512062
+    second: TowerClimberTileset_148
+  - first:
+      213: 8727451998305638841
+    second: TowerClimberTileset_149
+  - first:
+      213: 5478498260082617908
+    second: TowerClimberTileset_150
+  - first:
+      213: -3080022426908598422
+    second: TowerClimberTileset_151
+  - first:
+      213: -7371425022021433743
+    second: TowerClimberTileset_152
+  - first:
+      213: -5308263656442536255
+    second: TowerClimberTileset_153
+  - first:
+      213: -5591370005646777762
+    second: TowerClimberTileset_154
+  - first:
+      213: -7944026847413480935
+    second: TowerClimberTileset_155
+  - first:
+      213: -6885805519240026885
+    second: TowerClimberTileset_156
+  - first:
+      213: -4913741466729146067
+    second: TowerClimberTileset_157
+  - first:
+      213: 2382052135733802753
+    second: TowerClimberTileset_158
+  - first:
+      213: 962194247721678885
+    second: TowerClimberTileset_159
+  - first:
+      213: -8011436861441566060
+    second: TowerClimberTileset_160
+  - first:
+      213: 8945532988369910097
+    second: TowerClimberTileset_161
+  - first:
+      213: 4211970815983066281
+    second: TowerClimberTileset_162
+  - first:
+      213: -6767989051898113401
+    second: TowerClimberTileset_163
+  - first:
+      213: 8745446666505136300
+    second: TowerClimberTileset_164
+  - first:
+      213: -317542921283135709
+    second: TowerClimberTileset_165
+  - first:
+      213: -7670213830571802710
+    second: TowerClimberTileset_166
+  - first:
+      213: -3887214176978820333
+    second: TowerClimberTileset_167
+  - first:
+      213: 7242293270669683272
+    second: TowerClimberTileset_168
+  - first:
+      213: -1510678956124377139
+    second: TowerClimberTileset_169
+  - first:
+      213: -1664762522385120511
+    second: TowerClimberTileset_170
+  - first:
+      213: 8574312118917758512
+    second: TowerClimberTileset_171
+  - first:
+      213: 134667740593696828
+    second: TowerClimberTileset_172
+  - first:
+      213: 5979999406204944940
+    second: TowerClimberTileset_173
+  - first:
+      213: 3710044425165465660
+    second: TowerClimberTileset_174
+  - first:
+      213: 5119546506248752289
+    second: TowerClimberTileset_175
+  - first:
+      213: -2883661583973988565
+    second: TowerClimberTileset_176
+  - first:
+      213: 7474691987470105728
+    second: TowerClimberTileset_177
+  - first:
+      213: 3288327645374081730
+    second: TowerClimberTileset_178
+  - first:
+      213: -4407471870835676090
+    second: TowerClimberTileset_179
+  - first:
+      213: 5342354186747326713
+    second: TowerClimberTileset_180
+  - first:
+      213: 4646664103414644006
+    second: TowerClimberTileset_181
+  - first:
+      213: -604604070440550213
+    second: TowerClimberTileset_182
+  - first:
+      213: 6111415886136890410
+    second: TowerClimberTileset_183
+  - first:
+      213: -777620582141831291
+    second: TowerClimberTileset_184
+  - first:
+      213: 6735753811793483152
+    second: TowerClimberTileset_185
+  - first:
+      213: 525325486139454840
+    second: TowerClimberTileset_186
+  - first:
+      213: -4834060611799979023
+    second: TowerClimberTileset_187
+  - first:
+      213: 3191772927274280983
+    second: TowerClimberTileset_188
+  - first:
+      213: -6919234238395033540
+    second: TowerClimberTileset_189
+  - first:
+      213: 2319169303478402995
+    second: TowerClimberTileset_190
+  - first:
+      213: -2953963499981488879
+    second: TowerClimberTileset_191
+  - first:
+      213: 2358867312278694477
+    second: TowerClimberTileset_192
+  - first:
+      213: 4062713360450034018
+    second: TowerClimberTileset_193
+  - first:
+      213: 5730871632040573445
+    second: TowerClimberTileset_194
+  - first:
+      213: 3973349926764081840
+    second: TowerClimberTileset_195
+  - first:
+      213: -6776284660502530004
+    second: TowerClimberTileset_196
+  - first:
+      213: 5731262363278616554
+    second: TowerClimberTileset_197
+  - first:
+      213: 8227154855768658522
+    second: TowerClimberTileset_198
+  - first:
+      213: 5802777685367487621
+    second: TowerClimberTileset_199
+  - first:
+      213: -1344117577404692756
+    second: TowerClimberTileset_200
+  - first:
+      213: -973731716937191933
+    second: TowerClimberTileset_201
+  - first:
+      213: -3262344136986033427
+    second: TowerClimberTileset_202
+  - first:
+      213: -958340361166591976
+    second: TowerClimberTileset_203
+  - first:
+      213: 1364229100763861474
+    second: TowerClimberTileset_204
+  - first:
+      213: -6122800939566650842
+    second: TowerClimberTileset_205
+  - first:
+      213: 1773350125223304998
+    second: TowerClimberTileset_206
+  - first:
+      213: -4002312951921944801
+    second: TowerClimberTileset_207
+  - first:
+      213: 4391592932341995696
+    second: TowerClimberTileset_208
+  - first:
+      213: -658026197658571242
+    second: TowerClimberTileset_209
+  - first:
+      213: 1715894529594524567
+    second: TowerClimberTileset_210
+  - first:
+      213: -8588376268519547896
+    second: TowerClimberTileset_211
+  - first:
+      213: 7549805719947750465
+    second: TowerClimberTileset_212
+  - first:
+      213: 5330766897150273937
+    second: TowerClimberTileset_213
+  - first:
+      213: 5764046836471904249
+    second: TowerClimberTileset_214
+  - first:
+      213: -222583792801939149
+    second: TowerClimberTileset_215
+  - first:
+      213: -8517888669231391609
+    second: TowerClimberTileset_216
+  - first:
+      213: -3692487364629941930
+    second: TowerClimberTileset_217
+  - first:
+      213: -7603253876362965354
+    second: TowerClimberTileset_218
+  - first:
+      213: -3719976564592750343
+    second: TowerClimberTileset_219
+  - first:
+      213: 1349489542098098918
+    second: TowerClimberTileset_220
+  - first:
+      213: 795617762376211512
+    second: TowerClimberTileset_221
+  - first:
+      213: 2272183168090666135
+    second: TowerClimberTileset_222
+  - first:
+      213: -5475334208753572053
+    second: TowerClimberTileset_223
+  - first:
+      213: -2848002630619997410
+    second: TowerClimberTileset_224
+  - first:
+      213: -6683396960597464632
+    second: TowerClimberTileset_225
+  - first:
+      213: -6321383195183232066
+    second: TowerClimberTileset_226
+  - first:
+      213: 1011026147903355831
+    second: TowerClimberTileset_227
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TowerClimberTileset_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 504
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5140cab0751e6624087426f54578a180
+      internalID: -5893531192479184067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 504
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850adc2a743d7644e9538d2a82dcdbcd
+      internalID: -2083911509755625057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 504
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa3ab7defaf6ba49b5cdab1b133dc35
+      internalID: -8199578348427307755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 504
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454e70d12972b00449e51841ff7d1f12
+      internalID: 2625528342763049811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 504
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87f1ca734c8d11448612daf774c8da8
+      internalID: 1372106926008683118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 504
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a12df837d42cf4ea56646de47f63b3
+      internalID: -4199075471970152053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_6
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 504
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323f1ec804b11e245a51abbb369cb724
+      internalID: 5835357722648989256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 504
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19590e0146c640e45b98e844ab6382e5
+      internalID: 571826790830958777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 504
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363bc887c4917dd4cba8a2a9b5c9937d
+      internalID: -7669665079355022572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 504
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387aca38f4bdeac43bf26879960859ad
+      internalID: -7882898939848856404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_10
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 504
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f9cc217f70a514ba0dd2796970054c
+      internalID: 1162813842699862535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 504
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64862cc74e3cd0b4dbbb6d8fed0410cc
+      internalID: 4608226480383252443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 504
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed847fc83e90844eade234815108d11
+      internalID: 8830028550923295425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 504
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47947e17d4a96ff48b358af09c531112
+      internalID: -1130376620095900968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 504
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a43eb4ca27743c4eae188e675960144
+      internalID: -1913337718642195743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 504
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72031947bc6777346b415f4ab9d04344
+      internalID: -1578254601471387028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 504
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c1c9640993f6047a7a7fa64d13d6c4
+      internalID: 3197275093176848829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_17
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 504
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad41321e0eba15b4d9a2132b06ec0d1f
+      internalID: 40668295709115453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 504
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b70dadcdc2e4b4e8142cf331ed21af
+      internalID: 5531076800419022745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 504
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fd144a4228d9f43a258fa10a348051
+      internalID: 1563895382116154098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_20
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 504
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724ee90e742cde54494bad692ff3259d
+      internalID: 5152390179263586637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 504
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a721f537d3cc3a43940e957d187649b
+      internalID: 5454421900362762763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_22
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 504
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a6a125bc07c004d8aa94a216e5764c
+      internalID: 2840627900853342642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2305886279c47ce40afb6397ad82c943
+      internalID: -5548894839915343296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad1629c80045f94f8c8b77d6cfaa746
+      internalID: -7602847665353031178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb234ca8f72b664e9fde667869e732b
+      internalID: -3140082185833901680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_26
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd40dc2826ba4494f97db8e3dfa0f8eb
+      internalID: -7665317492507254076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7073d47656609f48b9c830bef4093e8
+      internalID: 477336172379050413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_28
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20189a64681bd6c4ea60628fa602bec9
+      internalID: 3833724769559037987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c957441a064204a9fcd7ad17f4f193
+      internalID: -500276554219537146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_30
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c84f8a6dab0e3444bc8d85d4108a87c
+      internalID: 8353836332099038623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c066d2ba22f38d442aa6d25a6a162512
+      internalID: 3791431760185974317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_32
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2d878348ab41e4ab1efc2684d65b4f
+      internalID: -5575770365503992020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2075731c7d6cdea4b82df1baea26ecc4
+      internalID: 2689653806438417775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_34
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b71eef552825e2449f20d0e7df5bd33
+      internalID: 3756162462281717118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d9346119079c84fa5ea90f82ff4f8c
+      internalID: -345557310071471205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_36
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58de3734eea2c7e4491d4af5231cc9cc
+      internalID: -2447019643804475056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9794b4f98a8184b8d84f3738422cb4
+      internalID: -1416520214068425486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_38
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4180acef74ec94ca6c42d0c148e8b9
+      internalID: 2077449224661417628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5209d0d2ad4161d48a4916dd7bc8cde4
+      internalID: 6907123041688738239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_40
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcdab42b0c349342b0f8e4447cbe9f6
+      internalID: -7660784283578557069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e253364e590394699f7d4be1e0a82c
+      internalID: 771767272177802137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_42
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06825370fde1c354b9e23033c23185cb
+      internalID: 1115718463286684363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_43
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53450be940e56a04f80f5203654ae835
+      internalID: 2052089929427937326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_44
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538ffeaa9cd2ee543a316c4bf0f4d868
+      internalID: 3489369001181517000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_45
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148c5953109a2d24586b21fc141685fe
+      internalID: -7262183973273326391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_46
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b6e928c8c9e784eb9c4902633dd313
+      internalID: -6713551381484577757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c7f7a80d9babf419d034bcfd382d6e
+      internalID: 4320004815655245376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_48
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338fa24d95181c749b2e0b8e54ead127
+      internalID: 2265522144022007101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_49
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff5d183feed2894a8e81785f89fbe9e
+      internalID: -4575090812286483128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_50
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b956b0c9a17d5e44b7efaccd8f5d5d4
+      internalID: 3085604757189159938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_51
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bee4700799ee644889a6286743795a
+      internalID: -1439608721187297067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_52
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056eae256ce23894f889c52c071ab95e
+      internalID: -4671317645119561797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d7d5a553fa79b4cb372921f77b2850
+      internalID: 4093712372387821303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101b86e5d483b3f42927705a9049f69b
+      internalID: 3651516896101415792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_55
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189fea34147732b469629385ee680db6
+      internalID: -2535871759277451811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_56
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ca718cbd90296418e91f07b153c801
+      internalID: 7660626578263338415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_57
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171d35861fd92144a986a7dd8938219f
+      internalID: 7067624343497291127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7d6ff87db886f48a2c81bfeca5075d
+      internalID: -1021304731336794675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_59
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9954cfc6b237446b761b3d28e0c152
+      internalID: -2064578914864064453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_60
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320397fbd0083da49badbb17d7978e5e
+      internalID: -2691708223635339127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_61
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896a3f489cba10b48ae476caca75c009
+      internalID: 8125837973512430312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6b3a20f034415499240ffcb55e8d85
+      internalID: 6942016173086648477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_63
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e594b92217ff04b8599384d25b98c8
+      internalID: 9096162684890356476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_64
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1132fde992791494f867a34214ddd23e
+      internalID: 848473188149958441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_65
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e6f42b4dac8f14ba708adf80907bcf
+      internalID: 6932286412733653648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_66
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d131bbb8a0f56b3429a53c38566342f1
+      internalID: -700723222638362910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_67
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9eef942db5d4974795c251a12ec0e7d
+      internalID: 3159922097581881878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_68
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bee3e4afff4ca4bb920ba9cd74cc58
+      internalID: -8415606873846366942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_69
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f3b06ba7ddaa6468bcb0876543dcbe
+      internalID: -8305828483878283281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec17cd219f41c3044849880aa11b8696
+      internalID: -2076153258357710401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_71
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274d768d0b659dc4d9008efd68ff7cce
+      internalID: 6262556181095860724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_72
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8054658829b686045bea7f5c481cde33
+      internalID: -254055131636068411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_73
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc26027c19418b9499bc33871faf50b4
+      internalID: -1008513158114499741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_74
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85cf9559feb69f409f7b9a66addb650
+      internalID: -390388955502343604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_75
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c0fb0faa4df5e49abd6e5bc99da3f2
+      internalID: 4940862595770106493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_76
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dacd0a9a25a034294f2b7a6c7654cc
+      internalID: -8906397338633943413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_77
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e0cec212c5bd24fb598fa3956f51da
+      internalID: -1417528785536378992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_78
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b825d4480927af4f91bc73aec246779
+      internalID: -7367957414501654675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_79
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a903b3060e3b4d34daccb076831a9bc9
+      internalID: -1255478874497265574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_80
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f8a863b16f2254c9a05f57ebef09c8
+      internalID: 7143875170325559391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa63d5e4d8fea114aa0667dd1bad06de
+      internalID: 9177367002363646441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_82
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 480
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96da2dbf3dc768e4e94fa97ef65a6893
+      internalID: 4007916867378925165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65c714f509745440a6382654356c9f0
+      internalID: -8801153454392582715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_84
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 480
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e8daa1992b5064fbcd4ac0c1e5d250
+      internalID: -9205967960645180846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_85
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6d1e9a04eb9c548bf503487012b13c
+      internalID: 5883606723569357259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_86
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 480
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a3a2ee58e34dd4e9f4df4edf01f344
+      internalID: 2060624984242946364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_87
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 480
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3395264661e2244a8df2beef61d63ff
+      internalID: 1785747249267372819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_88
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 480
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029a13fcf2fb8df4bae7851fe2d829b5
+      internalID: -6342660456437943594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_89
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 480
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcd690806f99bc4d9c91abec0010da2
+      internalID: -3241546310026955126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_90
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 480
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9da68fc721e6e46a18c4d7ac9bfa4f
+      internalID: 5876030365535853887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_91
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 480
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ba296fdcfa63c42994d29aeb85e1d2
+      internalID: -770156551137275912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d7b6dbf16b6244abe9bccdac97d0d9
+      internalID: -3365169408872843802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_93
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 480
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d370e72997166594bb12bf99d08cf1f3
+      internalID: 3118164777572434292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_94
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 480
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51d766ac29f0b1409a8e773bbdcfb1b
+      internalID: -1911556443043712517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_95
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105c3a8be1f19e24e914f3362ca32ff3
+      internalID: -1322667944961543127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_96
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 480
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818dd3fa2b7bba848981d781047e71a8
+      internalID: 2090042547528833785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_97
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 480
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1ee146bee28884ea3ce109edaf1082
+      internalID: 1428222117362184254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_98
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 480
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791f68877c2a6da48b27090059990f17
+      internalID: 5157258822589559106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_99
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 480
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657cbed3d0143e34994cf4f9b2dbda37
+      internalID: -3312916751399784532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_100
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 480
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefc193ad4424fc49a14182d31c3eb41
+      internalID: 4461699406425685916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_101
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64445a1ce99dd224c80c34a0854fa04f
+      internalID: -3127012423127225377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_102
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 480
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3228a99d9c6d1f34785ff235151fa2ab
+      internalID: 2483614380842809104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_103
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87ab3008263ad0498abe8a468d3d7ca
+      internalID: 1730361667697234959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945669def8e731543a99a66d3bd5f0ac
+      internalID: -6531098684494464314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_105
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 472
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31bb4ee06ab4b547ace52cf34f866e9
+      internalID: -5737221857642520446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_106
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 472
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dcc97c3fb987644b31db3d6fd7e66e
+      internalID: 1288391744812336427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_107
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 472
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71283201a214974eb563b6879e1531f
+      internalID: -1082008603546090690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_108
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 472
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c3f388deeeeb94697de3b1bddea05d
+      internalID: 8260835671680701804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_109
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 472
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381d196373dd0fc49bf3bbb08115eb36
+      internalID: -7518719485525284702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_110
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 472
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607db58b914126648aa096d5def3bda6
+      internalID: 1412069265587394015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_111
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 472
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278febdde4a2e224883d16c08e845302
+      internalID: 2428832764299555507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_112
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 472
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd8c037e21a6f34e848b5456690e4a8
+      internalID: 3194835178768812605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_113
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 472
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fa6c8ba0822f94dbf758b5c928c02d
+      internalID: -4652291845358402873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_114
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 472
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa75d6eb789cab14aa8f28a8f7a5de4f
+      internalID: 1157721270952154257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_115
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 472
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b75cf18bc2d12e4091280cbf333ba30
+      internalID: 4388092455061395827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_116
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 472
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452d243d9cacc674385fe7b579bd746a
+      internalID: -1439270215053966712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_117
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 472
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66da40378ad7be54a81ebf1459764988
+      internalID: 3578176191122318343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_118
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 472
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4489bc05343b3cd4cb224aba3532fd9e
+      internalID: 6605732724355718579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_119
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 472
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac260c1623380374d88daf75c3b23d88
+      internalID: 3320308653047696859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_120
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 472
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f88cf5f05e4004e8bde5f728209482
+      internalID: 5099003763768387770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_121
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 472
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301e62a9f2f8e304a960e666d81c0b99
+      internalID: -4810980861726725878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_122
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 472
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9538529b52d4948b09f6e771130e4c
+      internalID: -5425884613159114066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_123
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 472
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97c4e89c43c3bd4bbfa20f81c5edcd0
+      internalID: -5390752645136681866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9292ad02f264ddd4ab66fc4ce958c586
+      internalID: 7676197866458236742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_125
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2894eca6055d8943a881ee64cd07437
+      internalID: 5073028591263066837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_126
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de65f9b642ecfc4b960de30095195a6
+      internalID: -7942351301081467298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_127
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66473b082af16a41ab53fbc9004237e
+      internalID: -118283051634784308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_128
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f02ea9bee483e347b2134de47f82e98
+      internalID: 4375674254495381893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_129
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5765df19700ea5b498ddc4f938fa319a
+      internalID: -6942072688774091367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_130
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cbd8c769091ae449052c7e0ca3f537
+      internalID: -8344966776672927833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_131
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c003da6dd35781649bf661a289d65d29
+      internalID: 4297663557905924750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_132
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484dfee4c15a2824b9868d3a8cafae0c
+      internalID: -5147072523456158060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_133
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a26ff727fb9c684cb149f168abb4760
+      internalID: 5153692429568726762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_134
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f04082948dc5442b2f5bbc8f9c9b0d
+      internalID: -6022833358197580858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_135
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724c56534f4105d41a8bfdf89c5e9655
+      internalID: -6582573529205906630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_136
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861ec44ea6c297a40b50ec8c2a466501
+      internalID: -5231718560096384826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_137
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634d88d471078ca48afac644c6566093
+      internalID: -2540269704140420694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_138
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236ccfd088a3a79449ebabf4a3d3ca2f
+      internalID: 4916037648067028881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_139
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1392c8dc16b01cc41be081a7a130d65e
+      internalID: 6054913685406384213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_140
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af2818196d7ff14ebdf97135d269ec9
+      internalID: 2614454060232092338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_141
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97283ac55d0818b46914757e41ed1322
+      internalID: 8952756195861801058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_142
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b3aed7094ef274fbf9a92eedec3ccd
+      internalID: 5430948408591876303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_143
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b953a0194ae1a4891ab800d8b234cd
+      internalID: -6056974642542484819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec06d3b5edeb814ab92529898863c09
+      internalID: -5233492165822027272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_145
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 456
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e10ab2b22e2e240aedb15765aa510d
+      internalID: -5282311192061111903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_146
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 456
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105bd9b8f0a0b0445b07cec74b05c807
+      internalID: -2609148243553305491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_147
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 456
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac042e485a2e7a4cb08e6ed574cabef
+      internalID: 6538740388501863186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_148
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 456
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f792edb55a49a24cad0ebaa271db472
+      internalID: 2557094751970512062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_149
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 456
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd06eff08c09c04d8e3c94e7a42cbb1
+      internalID: 8727451998305638841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_150
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 456
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c506923afbeb946b2da55e5fbd0800
+      internalID: 5478498260082617908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_151
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 456
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938622fbdc4d47b4f8ea2c911d7abc26
+      internalID: -3080022426908598422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_152
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 456
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c67365c4fbba745b4f5849072ff8df
+      internalID: -7371425022021433743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_153
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 456
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a784304369e2d0d45b0f84e2bbd1ed6c
+      internalID: -5308263656442536255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_154
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 456
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8203518c0ccf4644dbf0dacc8310becf
+      internalID: -5591370005646777762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_155
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14e74190e3129649a4113362d2cffa0
+      internalID: -7944026847413480935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_156
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 448
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e38f06933f2cf847a72d42633ded77c
+      internalID: -6885805519240026885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_157
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 448
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a174b3c0d10154f8eed26d2e066459
+      internalID: -4913741466729146067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_158
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 448
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f40d3a896924d4e89c67fff105dedc
+      internalID: 2382052135733802753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_159
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83e2a728fcc02f40a7221fbf42be6a6
+      internalID: 962194247721678885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_160
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 448
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056abbe57bbcc554abc93878d1b31666
+      internalID: -8011436861441566060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_161
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22263406d67f4144b3e46d270832b08
+      internalID: 8945532988369910097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_162
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 448
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c881750a9880540aa2d1faa80384e1
+      internalID: 4211970815983066281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_163
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 448
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd1d126311cc7241ab89d097765d79f
+      internalID: -6767989051898113401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_164
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 448
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c87561621c3a346b2125e95156edb4
+      internalID: 8745446666505136300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_165
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d381b0406e5f642872d10888211f02
+      internalID: -317542921283135709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_166
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 448
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e45f67083e79504b91f9c32a4f037b1
+      internalID: -7670213830571802710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_167
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 448
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55760ce5bab2ea642903d6d6b4a96beb
+      internalID: -3887214176978820333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_168
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 448
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4477bc8c6adb2b04a8e652647f4bde25
+      internalID: 7242293270669683272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2cc6eb1c7b66f40a8ce5d634a8eba9
+      internalID: -1510678956124377139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_170
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 440
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484c023cf58ef9544bd9c3189b80d8ba
+      internalID: -1664762522385120511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_171
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 440
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef53e24f9341334e8a3c0cfb0d62461
+      internalID: 8574312118917758512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_172
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 440
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c881b082dc73019418addf211550de98
+      internalID: 134667740593696828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_173
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 440
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03dcd9c794f348147864beabff4d6207
+      internalID: 5979999406204944940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_174
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 440
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f48132bf5b3214b8e37963ff5d7f30
+      internalID: 3710044425165465660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_175
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 440
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4406cb3e4d1be284bbb3af7e0a4dccf0
+      internalID: 5119546506248752289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_176
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 440
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7cba9a5c382af42bfe4062f5a421c6
+      internalID: -2883661583973988565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_177
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8242cb60e9ebe4bb4ea51d26e53dbe
+      internalID: 7474691987470105728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_178
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 432
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238b0b8c9c29a4d408dc5620215ae42a
+      internalID: 3288327645374081730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_179
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 432
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3731690f844f1e8499661dfb65488c4e
+      internalID: -4407471870835676090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_180
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 432
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532b9a03005a7b2429af1331d2424395
+      internalID: 5342354186747326713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_181
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 432
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc703712ba8fd51459ea845830d08132
+      internalID: 4646664103414644006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_182
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 432
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3269ed6dcac85f4aa94ce50c277aead
+      internalID: -604604070440550213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_183
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 432
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75df7d3cf5150e409ef18009e32b69b
+      internalID: 6111415886136890410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_184
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 432
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2068e460ccb6c344abf4b8b390bab77a
+      internalID: -777620582141831291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_185
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab287d310201a844903d6076c8a0b0b
+      internalID: 6735753811793483152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_186
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 432
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ca2a0fca7554e428ade236ca4bdd3b
+      internalID: 525325486139454840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_187
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 432
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90bf9c622973d1458e7d65cf9a2c328
+      internalID: -4834060611799979023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_188
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 432
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88b522d4ae4c764086c836bacc5489c
+      internalID: 3191772927274280983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_189
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 432
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed693f8c35af1844dac8e0345fdcc07e
+      internalID: -6919234238395033540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_190
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 432
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0042a094c6c7074c87765335f451852
+      internalID: 2319169303478402995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_191
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 424
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d254079086057a740ae32bc388ae6b9c
+      internalID: -2953963499981488879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_192
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 424
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9831a1e67b7b0542b2e298763748285
+      internalID: 2358867312278694477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_193
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 424
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a73b95bc90b8b47ad00b4af848e15a
+      internalID: 4062713360450034018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_194
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 424
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d977301459122384db60a3c7e7179c54
+      internalID: 5730871632040573445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_195
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 424
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58641e026bc37a442bf572c267ba9f8f
+      internalID: 3973349926764081840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_196
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 424
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e344a150b36354c8d59c07b7a8b4f6
+      internalID: -6776284660502530004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_197
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 424
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7be3a3352d48e48926969d37762cc6
+      internalID: 5731262363278616554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_198
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 424
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b96254c73ba2a49b0ffe82b9a1ef86
+      internalID: 8227154855768658522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_199
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 424
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde16ddb944f6e046aff4e3630694216
+      internalID: 5802777685367487621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_200
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 424
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1470f9aee2178d64397f6a1f8910d292
+      internalID: -1344117577404692756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_201
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 424
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea1eba0d8f8086458194d43e14347ff
+      internalID: -973731716937191933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_202
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 424
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9c6544bf12ccf48938697d44736625
+      internalID: -3262344136986033427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_203
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 416
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbde3336ebd91b48b5c374867cbdd48
+      internalID: -958340361166591976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_204
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 416
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5176c9c29a6a9e344bfd8ab0d5c0a448
+      internalID: 1364229100763861474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_205
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87368ad65d14b64c94c4c2695f106f9
+      internalID: -6122800939566650842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_206
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 416
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdc8ff9ef33f9d4882fd68529f7deaa
+      internalID: 1773350125223304998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_207
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc5dd296b3757848add80ae7eb320a8
+      internalID: -4002312951921944801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_208
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 408
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b59d68c01119d4fa97ffe1bc7497fc
+      internalID: 4391592932341995696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_209
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 408
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1a39f437aebcb45a1d35ebbfe24a62
+      internalID: -658026197658571242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_210
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 408
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3baf254c05074274aaa7423c2b419468
+      internalID: 1715894529594524567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_211
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 408
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7467c000f03899d4aa97f7c9849f1d1e
+      internalID: -8588376268519547896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_212
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 400
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5129ed6838fb24e82439d3166c7589
+      internalID: 7549805719947750465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_213
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 400
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a7e42fa0fef0f4fbd06034d2cca899
+      internalID: 5330766897150273937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_214
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 400
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2a68590d4c244459bc41b08257dc82
+      internalID: 5764046836471904249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_215
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 400
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7607dcc6baaf549b00c113d66c12ab
+      internalID: -222583792801939149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_216
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87788e71553b8424e8df2eca5f3534d0
+      internalID: -8517888669231391609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_217
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 392
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de903fb5e936a84d99420566def63fa
+      internalID: -3692487364629941930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_218
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 392
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08730c81ff24783429a449664373cb92
+      internalID: -7603253876362965354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_219
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 392
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e19c712d947ac4da50f4b431557428
+      internalID: -3719976564592750343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_220
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 392
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21d232752f4a20499a459183ae5c38d
+      internalID: 1349489542098098918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_221
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 392
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f93cc25e14fd064db05f6d7f9a857d3
+      internalID: 795617762376211512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_222
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 392
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3875cc9cc02c114281a03d80af161f4
+      internalID: 2272183168090666135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_223
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 392
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7905dd316f8a744da298968ed18d07c
+      internalID: -5475334208753572053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e50752671cfd374c818e5701bc08623
+      internalID: -2848002630619997410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_225
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 384
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb8ab3399fce314e87d1736bed814ca
+      internalID: -6683396960597464632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_226
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdad6bac6ddef6744a143fc511af54c9
+      internalID: -6321383195183232066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerClimberTileset_227
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 384
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bb1442a4bafbe49a80249c279f99a6
+      internalID: 1011026147903355831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
